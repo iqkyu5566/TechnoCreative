@@ -1,0 +1,7 @@
+[05-Aug-2017 14:27:53 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/technocr/public_html/application/views/belakang/form_login.php on line 2
+[05-Aug-2017 14:29:20 UTC] PHP Fatal error:  Call to undefined function form_open() in /home/technocr/public_html/application/views/belakang/form_login.php on line 2
+[05-Aug-2017 14:54:46 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/technocr/public_html/application/controllers/Home.php on line 28
+[05-Aug-2017 14:54:54 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/technocr/public_html/application/controllers/Home.php on line 28
+[05-Aug-2017 14:54:58 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/technocr/public_html/application/controllers/Home.php on line 28
+[05-Aug-2017 14:55:00 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/technocr/public_html/application/controllers/Home.php on line 28
+[05-Aug-2017 14:55:05 UTC] PHP Parse error:  syntax error, unexpected '=', expecting ']' in /home/technocr/public_html/application/controllers/Home.php on line 28
